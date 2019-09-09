@@ -1,0 +1,4 @@
+Adding some text
+Added some more text
+002001 COMMIT
+002001001 REMOTE COMMIT
